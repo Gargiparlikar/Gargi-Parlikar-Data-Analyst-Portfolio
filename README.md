@@ -166,5 +166,11 @@ End-to-end ETL pipeline
 📧 Email: **parlikargargi51@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/gargi-parlikar  
 🐙 GitHub: https://github.com/Gargiparlikar  
+<p align="left">
+  <a href="https://github.com/Gargiparlikar/Gargi-Parlikar-Data-Analyst-Portfolio/blob/main/GARGI-PARLIKAR-Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
+
 
 ---
