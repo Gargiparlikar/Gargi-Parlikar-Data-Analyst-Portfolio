@@ -160,7 +160,7 @@ Analyzed 7k+ pizza orders to uncover sales trends
 Built KPI metrics: revenue, top pizzas, peak hours, category performance
 
 Designed an interactive Excel dashboard with filters & visual insights
-🔗 Add your GitHub link here
+🔗https://github.com/Gargiparlikar/Pizza-Sales-Analysis-SQL-EXCEL-
 
 ---
 
