@@ -150,6 +150,19 @@ End-to-end ETL pipeline
 🔗 https://github.com/Gargiparlikar/TELECOMMUNICATION--CUSTOMER-CHURN-ANALYSIS  
 
 ---
+🍕 Pizza Sales Analysis (SQL + Excel Dashboard)
+
+Tech: SQL, Excel, Pivot Tables, Data Modeling
+Highlights:
+
+Analyzed 7k+ pizza orders to uncover sales trends
+
+Built KPI metrics: revenue, top pizzas, peak hours, category performance
+
+Designed an interactive Excel dashboard with filters & visual insights
+🔗 Add your GitHub link here
+
+---
 
 # 📊 **What I Do**
 
